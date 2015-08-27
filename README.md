@@ -101,7 +101,9 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://submit.co/ - List of places to get press coverage for your startup
 * http://promotehour.com/ - List of places with paid option to submit
 * http://reddit.com/r/imadethis
-* http://betapage.cot
+* http://betapage.co
+
+-----
 
 * http://thenextweb.com/index
 * http://www.producky.com/ -- South East Asia
